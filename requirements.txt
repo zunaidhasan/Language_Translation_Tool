@@ -1,0 +1,5 @@
+pytesseract
+pillow
+PyPDF2
+python-pptx
+googletrans==4.0.0-rc1

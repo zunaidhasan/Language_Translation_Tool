@@ -1,0 +1,10 @@
+google_api_key.json
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.png
+*.pdf
+*.pptx
+venv/
+.DS_Store
