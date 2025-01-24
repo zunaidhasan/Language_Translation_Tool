@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Language Translation Tool
 
 ## Overview
@@ -21,4 +20,3 @@ The Language Translation Tool is a Python-based application that enables users t
 =======
 # Language-Translation-Tool
 A Python-based language translation tool that translates text and file content (images, PDFs, and PowerPoint presentations) into multiple languages using pre-trained models like Google Translate API. Includes a command-line interface (CLI) and a GUI built with Tkinter.
->>>>>>> f8e9fb5ff8f0e2ed6c3e1cf2cdf4bff2c3448d72
